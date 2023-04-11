@@ -8,7 +8,7 @@ section {
 
 .game--title {
     font-size: 100px;
-    color: #d7a62f;
+    color: rgb(241, 185, 80);
     margin: 10px auto;
 }
 
@@ -17,7 +17,7 @@ section {
     grid-template-columns: repeat(3, auto);
     width: 306px;
     margin: 10px auto;
-    background-color: #11213a;
+    background-color: #3e4d64;
     color: #04c0b2;
 }
 
